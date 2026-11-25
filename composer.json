@@ -1,5 +1,5 @@
 {
-  "name": "hossamelkady/HElkady-taskflow-api",
+  "name": "hossamelkady/taskflow-api",
   "type": "project",
   "description": "A Laravel REST API for personal and team task management.",
   "keywords": ["laravel", "php", "rest-api", "portfolio"],
